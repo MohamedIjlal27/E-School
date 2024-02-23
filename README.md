@@ -26,8 +26,6 @@ It uses Firebase FireStore as Database and Firebase Storage.
 
 <img src="https://github.com/ketanchoyal/Academic-Connect/raw/master/screenshots/Screenshot_1.png"/>
 
-<img src="https://github.com/ketanchoyal/Academic-Connect/raw/master/screenshots/Screenshot_2.png"/>
-
 ## Database
 
 Database structure snapshot are [here](https://github.com/ketanchoyal/Academic-Connect/raw/master/DB%20Structure).

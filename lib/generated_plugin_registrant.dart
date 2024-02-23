@@ -1,6 +1,3 @@
-//
-// Generated file. Do not edit.
-//
 
 import 'package:cloud_firestore_web/cloud_firestore_web.dart';
 import 'package:file_picker/src/file_picker_web.dart';
